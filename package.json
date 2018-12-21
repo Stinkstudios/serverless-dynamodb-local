@@ -34,7 +34,7 @@
     "dependencies": {
         "aws-sdk": "^2.7.0",
         "bluebird": "^3.4.6",
-        "dynamodb-localhost": "Stinkstudios/dynamodb-localhost",
+        "dynamodb-localhost": "Stinkstudios/dynamodb-localhost#3d074783b455aec2416a839473ff9f5aca412ee2",
         "lodash": "^4.17.0"
     },
     "devDependencies": {
